@@ -30,3 +30,9 @@
 ]
 
 ### 3. On-training
+#### 3.1. Industry
+- **Bittensor** [[whitepaper](https://bittensor.org/wp-content/uploads/2024/02/bittensor.org-whitepaper.pdf)] [[docs](https://docs.bittensor.com/)] [[code](https://github.com/opentensor/BitTensor)]
+- **Numeraire** [[whitepaper](https://numer.ai/whitepaper.pdf)] [[docs](https://docs.numer.ai/)] [[code](https://github.com/erasureprotocol/NMR)]
+- **Commune AI** [[whitepaper](https://ai-secure.github.io/DMLW2022/assets/papers/7.pdf)] [[docs](https://commune-t.pages.dev/docs/next/Introduction)] [[code](https://github.com/commune-ai)]
+- **FLock** [[whitepaper](https://www.flock.io/whitepaper)] [[docs](https://docs.flock.io/)] [[code](https://github.com/FLock-io)]
+
