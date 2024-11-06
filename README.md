@@ -91,6 +91,18 @@ This repo contains the list of papers and protocols surveyed in our SoK paper.
 
 ### 1. Task Proposing
 
+#### 1.1 Academic Work
+
+- **Trusted ai in multiagent systems: An overview of privacy and security for distributed learning**. C. Ma et al. Proceedings of the IEEE, vol. 111, no. 9, pp. 1097–1132, 2023. [[paper](https://arxiv.org/abs/2202.09027)]
+
+- **Applications of distributed machine learning for the internet-of-things: A comprehensive survey**. M. Le et al. IEEE Communications Surveys & Tutorials, 2024. [[paper](https://arxiv.org/abs/2310.10549)]
+
+- **Reinforcement learning: A survey**. L. P. Kaelbling et al. Journal of Artificial Intelligence Research, vol. 4, pp. 237–285, 1996. [[paper](https://arxiv.org/abs/cs/9605103)]
+
+- **Markov games as a framework for multi-agent reinforcement learning**. M. L. Littman. Machine Learning Proceedings 1994, Elsevier, 1994, pp. 157–163. [[paper](https://www.sciencedirect.com/science/article/abs/pii/B9781558603356500271)]
+
+- **UPDeT: Universal Multi-agent Reinforcement Learning via Policy Decoupling with Transformers**. S. Hu et al. International Conference on Learning Representations, 2021. [[paper](https://arxiv.org/abs/2101.08001)]
+
 ### 2. Pre-Training
 
 #### 2.1. Data Preparation
@@ -103,6 +115,28 @@ This repo contains the list of papers and protocols surveyed in our SoK paper.
 - **Numbers** [[whitepaper](https://docs.numbersprotocol.io/introduction/whitepaper)] [[docs](https://docs.numbersprotocol.io/)] [[code](https://github.com/numbersprotocol)]
 
 ##### 2.1.2. Academic Work
+
+- **Data preprocessing in data mining**. S. García, J. Luengo, and F. Herrera. 2016. [[paper](https://link.springer.com/book/10.1007/978-3-319-10247-4)]
+
+- **An introduction to variable and feature selection**. I. Guyon and A. Elisseeff. Journal of Machine Learning Research, vol. 3, pp. 1157–1182, 2003. [[paper](https://dl.acm.org/doi/10.5555/944919.944968)]
+
+- **On the opportunities and risks of foundation models**. R. Bommasani et al. arXiv preprint arXiv:2108.07258, 2021. [[paper](https://arxiv.org/abs/2108.07258)]
+
+- **Accelerators and specialized hardware for deep learning**. T. Ben-Nun and T. Hoefler. Communications of the ACM, vol. 62, no. 12, pp. 34–44, 2019. [[paper](https://htor.inf.ethz.ch/publications/img/distdl-preprint.pdf)]
+
+- **Language models are unsupervised multitask learners**. A. Radford et al. OpenAI Blog, vol. 1, p. 9, 2019. [[paper](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)] [[code](https://paperswithcode.com/paper/language-models-are-unsupervised-multitask)]
+
+- **Language models are few-shot learners**. T. B. Brown. arXiv preprint arXiv:2005.14165, 2020. [[paper](https://arxiv.org/abs/2005.14165)]
+
+- **Exploring the limits of transfer learning with a unified text-to-text transformer**. C. Raffel et al. Journal of Machine Learning Research, vol. 21, pp. 1–67, 2020. [[paper](https://arxiv.org/abs/1910.10683)]
+
+- **PaLM: Scaling language modeling with pathways**. A. Chowdhery et al., 2022. [[paper](https://arxiv.org/abs/2204.02311)]
+
+- **LLama: Open and Efficient Foundation Language Models**. H. Touvron et al., 2023. [[paper](https://arxiv.org/abs/2302.13971)]
+
+- **Will we run out of data? Limits of LLM scaling based on human-generated data**. L. Villalobos et al., 2022. [[paper](https://arxiv.org/abs/2211.04325)]
+
+- **Blockchain versus federated learning: A comparative analysis for privacy-preserving applications**. M. J. M. Chowdhury et al. 2022. [[paper](https://ieeexplore.ieee.org/document/9734494)]
 
 #### 2.2. Compute
 
@@ -118,6 +152,22 @@ This repo contains the list of papers and protocols surveyed in our SoK paper.
 
 ##### 2.2.2. Academic Work
 
+- **The backpropagation algorithm**. R. Rojas. Neural Networks: A Systematic Introduction, pp. 149–182, 1996. [[chapter](https://link.springer.com/chapter/10.1007/978-3-642-61068-4_7)]
+
+- **In-datacenter performance analysis of a tensor processing unit**. N. P. Jouppi et al. Proceedings of the 44th Annual International Symposium on Computer Architecture, 2017. [[paper](https://ieeexplore.ieee.org/document/8192463)]
+
+- **AI and compute**. D. Amodei and D. Hernandez. 2018. Available at: [[OpenAI blog](https://openai.com/blog/ai-and-compute/)]
+
+- **AI is outpacing Moore’s law**. Z. Science. 2019. [[article](https://www.zmescience.com/science/ai-is-outpacing-moores-law/)]
+
+- **Denoising diffusion probabilistic models**. J. Ho et al. Advances in Neural Information Processing Systems, vol. 33, pp. 6840–6851, 2020. [[paper](https://arxiv.org/abs/2006.11239)]
+
+- **The EU General Data Protection Regulation (GDPR)**. P. Voigt and A. Von dem Bussche. A Practical Guide, 1st Ed., Cham: Springer International Publishing, vol. 10, no. 3152676, pp. 10–5555, 2017. [[book](https://dl.acm.org/doi/10.5555/3152676)]
+
+- **Truebit: A scalable verification solution for blockchains**. J. Teutsch and C. Reitwießner. 2018. [[paper](https://arxiv.org/abs/1908.04756)]
+
+- **Language models are few-shot learners**. T. B. Brown et al., 2020. [[paper](https://arxiv.org/abs/2005.14165)]
+
 ### 3. On-training
 #### 3.1. Industry
 - **Bittensor** [[whitepaper](https://bittensor.org/wp-content/uploads/2024/02/bittensor.org-whitepaper.pdf)] [[docs](https://docs.bittensor.com/)] [[code](https://github.com/opentensor/BitTensor)]
@@ -126,6 +176,16 @@ This repo contains the list of papers and protocols surveyed in our SoK paper.
 - **FLock** [[whitepaper](https://www.flock.io/whitepaper)] [[docs](https://docs.flock.io/)] [[code](https://github.com/FLock-io)]
 
 #### 3.2. Academic Work
+
+- **The malicious use of artificial intelligence: Forecasting, prevention, and mitigation**. M. Brundage et al. arXiv preprint arXiv:1802.07228, 2018. [[paper](https://arxiv.org/abs/1802.07228)]
+
+- **Large scale distributed deep networks**. J. Dean et al. In Advances in Neural Information Processing Systems, vol. 25, 2012, pp. 1223–1231. [[paper](https://dl.acm.org/doi/10.5555/2999134.2999271)]
+
+- **Imagenet: A large-scale hierarchical image database**. J. Deng et al. In 2009 IEEE Conference on Computer Vision and Pattern Recognition. IEEE, 2009, pp. 248–255. [[paper](https://ieeexplore.ieee.org/document/5206848)]
+
+- **Health insurance portability and accountability act of 1996**. U.S. Congress. Public Law 104–191, 1996. [[article](https://aspe.hhs.gov/reports/health-insurance-portability-accountability-act-1996)]
+
+- **Language models are few-shot learners**. T. B. Brown et al. In Advances in Neural Information Processing Systems, vol. 33, 2020, pp. 1877–1901. [[paper](https://arxiv.org/abs/2005.14165)]
 
 #### 4. Post-training
 
@@ -141,6 +201,12 @@ This repo contains the list of papers and protocols surveyed in our SoK paper.
 
 ###### 4.1.2. Academic Work
 
+- **Machine Learning**. T. M. Mitchell. McGraw Hill, 1997. [[book](https://www.cs.cmu.edu/~tom/mlbook.html)]
+
+- **Efficient processing of deep neural networks: A tutorial and survey**. V. Sze et al. Proceedings of the IEEE, vol. 105, no. 12, pp. 2295–2329, 2017. [[paper](https://arxiv.org/pdf/1703.09039)]
+
+- **Blockchain for IoT security and privacy: The case study of a smart home**. A. Dorri et al. In 2017 IEEE International Conference on Pervasive Computing and Communications Workshops (PerCom Workshops). IEEE, 2017, pp. 618–623. [[paper](https://ieeexplore.ieee.org/document/7917634)]
+
 ##### 4.2. Application
 
 ###### 4.2.1. Industry
@@ -150,6 +216,12 @@ This repo contains the list of papers and protocols surveyed in our SoK paper.
 
 ###### 4.2.2. Academic Work
 
+- **Artificial Intelligence: A Modern Approach**. S. Russell and P. Norvig. 3rd ed. Upper Saddle River, NJ: Prentice Hall, 2010. [[book](https://aima.cs.berkeley.edu/)]
+
+- **Multiagent systems: A survey from a machine learning perspective**. P. Stone and M. Veloso. Autonomous Robots, vol. 8, no. 3, pp. 345–383, 2000. [[paper](https://www.cs.cmu.edu/~mmv/papers/MASsurvey.pdf)]
+
+- **Grand challenges in ai: Representation learning, reasoning, and common sense**. O. Vinyals et al. DeepMind Research, 2019. [[blog](https://deepmind.com/blog/article/grand-challenges-ai-representation-learning-reasoning-common-sense)]
+
 ##### 4.3. Marketplace
 
 ###### 4.3.1. Industry
@@ -157,5 +229,3 @@ This repo contains the list of papers and protocols surveyed in our SoK paper.
 - **Balance AI** [[docs](https://docs.balanceai.network/)] [[code](https://github.com/balanceainetwork/task-oriented-agents-poc)]
 - **SingularityNET** [[whitepaper](https://public.singularitynet.io/whitepaper.pdf)] [[docs](https://dev.singularitynet.io/docs/concepts/)] [[code](https://github.com/singnet/)]
 - **Immutable** [[whitepaper](https://uploads-ssl.webflow.com/646557ee455c3e16e4a9bcb3/6499367de527dd82ab7475a3_Immutable%20Whitepaper%20Update%202023%20(3).pdf)] [[docs](https://docs.immutable.com/)] [[code](https://github.com/ImmutableLabs)]
-
-###### 4.3.2. Academic Work
