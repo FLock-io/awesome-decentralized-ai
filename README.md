@@ -1,8 +1,35 @@
 # ✨ SoK: Decentralized AI (DeAI)
 
+The centralization of Artificial Intelligence (AI) presents significant challenges, including susceptibility to single points of failure, embedded biases, data privacy issues, and scalability limitations. These challenges are particularly evident in closed-source large language models (LLMs), where user data is collected and potentially misused without sufficient oversight. To address these issues, blockchain-based decentralized AI (DeAI) has emerged as a promising solution, leveraging the strengths of both blockchain and AI technologies. Blockchain provides transparency, security, and decentralization, which enhance the trustworthiness and efficiency of AI systems.
+
+In this work, we present a Systematization of Knowledge (SoK) for blockchain-based DeAI protocols, providing a detailed taxonomy of current approaches and analyzing their impact on security, decentralization, and scalability. We systematically review academic literature and industry practices to explore the benefits of DeAI, such as improved security and decentralized data management, as well as the challenges, including scalability, computational overhead, and data privacy. Additionally, we examine the functionalities of existing DeAI platforms, evaluate their approaches to decentralization and security, and identify potential vulnerabilities.  We identify significant opportunities for integrating blockchain and AI to create a more democratized, transparent, and privacy-preserving ecosystem, while highlighting the technical and theoretical challenges that remain.
+
+This repo contains the list of papers and protocols surveyed in our SoK paper.
+
 ## 📚 Table of Content (ToC)
-- [SoK: Decentralized AI (DeAI)]
-    - [Table of Content (ToC)](#table-of-content-toc)
+- [SoK: Decentralized AI (DeAI)](#sok-decentralized-ai-deai)
+  - [Table of Content (ToC)](#table-of-content-toc)
+  - [1. Task Proposing](#1-task-proposing)
+  - [2. Pre-Training](#2-pre-training)
+    - [2.1. Data Preparation](#21-data-preparation)
+      - [2.1.1. Industry](#211-industry)
+      - [2.1.2. Academic Work](#212-academic-work)
+    - [2.2. Compute](#22-compute)
+      - [2.2.1. Industry](#221-industry)
+      - [2.2.2. Academic Work](#222-academic-work)
+  - [3. On-training](#3-on-training)
+    - [3.1. Industry](#31-industry)
+    - [3.2. Academic Work](#32-academic-work)
+  - [4. Post-training](#4-post-training)
+    - [4.1. Model Inference](#41-model-inference)
+      - [4.1.1. Industry](#411-industry)
+      - [4.1.2. Academic Work](#412-academic-work)
+    - [4.2. Application](#42-application)
+      - [4.2.1. Industry](#421-industry)
+      - [4.2.2. Academic Work](#422-academic-work)
+    - [4.3. Marketplace](#43-marketplace)
+      - [4.3.1. Industry](#431-industry)
+      - [4.3.2. Academic Work](#432-academic-work)
 
 ### 1. Task Proposing
 
