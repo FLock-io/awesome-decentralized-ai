@@ -4,7 +4,7 @@ The centralization of Artificial Intelligence (AI) presents significant challeng
 
 In this work, we present a Systematization of Knowledge (SoK) for blockchain-based DeAI protocols, providing a detailed taxonomy of current approaches and analyzing their impact on security, decentralization, and scalability. We systematically review academic literature and industry practices to explore the benefits of DeAI, such as improved security and decentralized data management, as well as the challenges, including scalability, computational overhead, and data privacy. Additionally, we examine the functionalities of existing DeAI platforms, evaluate their approaches to decentralization and security, and identify potential vulnerabilities.  We identify significant opportunities for integrating blockchain and AI to create a more democratized, transparent, and privacy-preserving ecosystem, while highlighting the technical and theoretical challenges that remain.
 
-This repo contains the list of papers and protocols surveyed in our SoK paper.
+This repo contains the list of papers and protocols investigated in our SoK.
 
 ## 📚 Table of Content (ToC)
 - [SoK: Decentralized AI (DeAI)](#sok-decentralized-ai-deai)
@@ -220,7 +220,7 @@ This repo contains the list of papers and protocols surveyed in our SoK paper.
 
 - **Multiagent systems: A survey from a machine learning perspective**. P. Stone and M. Veloso. Autonomous Robots, vol. 8, no. 3, pp. 345–383, 2000. [[paper](https://www.cs.cmu.edu/~mmv/papers/MASsurvey.pdf)]
 
-- **Grand challenges in ai: Representation learning, reasoning, and common sense**. O. Vinyals et al. DeepMind Research, 2019. [[blog](https://deepmind.com/blog/article/grand-challenges-ai-representation-learning-reasoning-common-sense)]
+- **Grand challenges in AI: Representation learning, reasoning, and common sense**. O. Vinyals et al. DeepMind Research, 2019. [[blog](https://deepmind.com/blog/article/grand-challenges-ai-representation-learning-reasoning-common-sense)]
 
 ##### 4.3. Marketplace
 
