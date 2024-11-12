@@ -213,6 +213,8 @@ This repo contains the list of papers and protocols investigated in our SoK.
 
 - **Fetch** [[whitepaper](https://media.abnnewswire.net/media/en/whitepaper/rpt/96506-Fetch_WP.pdf)] [[docs](https://fetch.ai/docs/guides)] [[code](https://github.com/fetchai)]
 - **Morpheus** [[whitepaper](https://mor.org/whitepaper)] [[docs](https://github.com/MorpheusAIs/Docs)] [[code](https://github.com/MorpheusAIs/Docs)]
+- **Delysium** [[whitepaper](https://delysium.gitbook.io/whitepaper)] 
+- **Theoriq** [[whitepaper](https://www.theoriq.ai/litepaper)] [[code](https://github.com/chain-ml/theoriq-agent-sdk)] 
 
 ###### 4.2.2. Academic Work
 
@@ -229,3 +231,4 @@ This repo contains the list of papers and protocols investigated in our SoK.
 - **Balance AI** [[docs](https://docs.balanceai.network/)] [[code](https://github.com/balanceainetwork/task-oriented-agents-poc)]
 - **SingularityNET** [[whitepaper](https://public.singularitynet.io/whitepaper.pdf)] [[docs](https://dev.singularitynet.io/docs/concepts/)] [[code](https://github.com/singnet/)]
 - **Immutable** [[whitepaper](https://uploads-ssl.webflow.com/646557ee455c3e16e4a9bcb3/6499367de527dd82ab7475a3_Immutable%20Whitepaper%20Update%202023%20(3).pdf)] [[docs](https://docs.immutable.com/)] [[code](https://github.com/ImmutableLabs)]
+- **Sahara** [[whitepaper](https://saharalabs.ai/learn/litepaper)] [[docs](https://docs.saharalabs.ai/)]
