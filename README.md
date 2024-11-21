@@ -6,6 +6,15 @@ In this work, we present a Systematization of Knowledge (SoK) for blockchain-bas
 
 This repo contains the list of papers and protocols investigated in our SoK.
 
+![Figure1](assets/figure1.png)
+**Figure 1: Comparison of different machine learning paradigms: (A) Standalone Learning, (B) Centralized Learning, (C) Distributed
+Learning (Data Parallelism), (D) Centralized Federated Learning, (E) Decentralized Federated Learning (Ring All-reduce), and
+(F) Decentralized Learning.**
+
+![Figure2](assets/figure2.png)
+**Figure2: A DeAI model lifecycle consists of four phases: 1.trask proposing, 2.pre-training, 3.on-training, and 4.post-training.**
+
+
 ## 📚 Table of Content (ToC)
 - [SoK: Decentralized AI (DeAI)](#sok-decentralized-ai-deai)
   - [Table of Content (ToC)](#table-of-content-toc)
